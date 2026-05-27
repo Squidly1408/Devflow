@@ -201,20 +201,6 @@ This will:
 
 ---
 
-# Planned Features
-
-- Process killing (`flutter.exe`, `dart.exe`)
-- build_runner watch mode
-- GUI launcher
-- Project configs
-- Multi-project support
-- Logging and analytics
-- Hot reload utilities
-- Error summaries
-- Build timing statistics
-
----
-
 # Author
 
 Lucas Newman
